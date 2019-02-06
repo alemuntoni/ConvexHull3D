@@ -2,7 +2,7 @@
 
 [Alessandro Muntoni](http://vcg.isti.cnr.it/~muntoni/)
 
-Project of the Geometric Algorithms and Spatial Data Structures course for the Master's Degree in Computer Science at the University of Cagliari. 
+Project of the Geometric Algorithms and Spatial Data Structures course for the Master's Degree in Computer Science at the University of Cagliari, 2014. 
 Implementation of an incremental randomized 3D Convex Hull algorithm of a set of points.
 
 # Download
