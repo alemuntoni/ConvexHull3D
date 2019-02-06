@@ -16,13 +16,13 @@ The optimized version is based on a subset of the library [CG3Lib](https://githu
 ### Requirements
 The only external library required is [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page), and for the generation of Makefile qmake is used.
 
-### Compilation:
+### Compilation
 ```bash
 qmake ConvexHull3D.pro
 make
 ```
 
-### Usage:
+### Usage
 ```bash
 ./ConvexHull3D inputMesh.obj outputMesh.obj
 ```
